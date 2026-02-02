@@ -98,6 +98,14 @@ Role in Pipeline: Ensures data is clean and ready for modeling. First step befor
 
 **- metrics.json:** Evaluation metrics (ROC-AUC, PR-AUC, confusion matrix, classification report, etc.)
 
+# Limitaitons
+
+
+
+# Reflections
+
+
+
 
 
 
