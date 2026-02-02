@@ -1,0 +1,22 @@
+{
+  "roc_auc": 0.9658392242808925,
+  "pr_auc": 0.6719353631354262,
+  "confusion_matrix": [
+    [
+      55258,
+      1393
+    ],
+    [
+      12,
+      83
+    ]
+  ],
+  "report": "              precision    recall  f1-score   support\n\n           0     0.9998    0.9754    0.9874     56651\n           1     0.0562    0.8737    0.1057        95\n\n    accuracy                         0.9752     56746\n   macro avg     0.5280    0.9245    0.5466     56746\nweighted avg     0.9982    0.9752    0.9860     56746\n",
+  "n_train": 226980,
+  "n_test": 56746,
+  "fraud_rate_train": 0.0016653449643140364,
+  "fraud_rate_test": 0.0016741268107003137,
+  "model_type": "logreg",
+  "use_smote": false,
+  "class_weight": "balanced"
+}
