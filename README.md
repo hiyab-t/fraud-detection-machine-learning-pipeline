@@ -56,8 +56,6 @@ Role in Pipeline: Ensures data is clean and ready for modeling. First step befor
 
 **Handles class imbalance:**
 
-- Optional SMOTE oversampling (--smote)
-
 - Default class_weight="balanced"
 
 **Preprocessing pipeline:**
